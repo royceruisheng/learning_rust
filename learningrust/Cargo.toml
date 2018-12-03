@@ -1,6 +1,0 @@
-[package]
-name = "learningrust"
-version = "0.1.0"
-authors = ["royce"]
-
-[dependencies]
